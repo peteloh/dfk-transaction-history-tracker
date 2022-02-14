@@ -1,5 +1,4 @@
-# DefiKingdom
-Defi Kingdom Competition
+# Defi Kingdoms Trasnaction History Tracker
 
 inputs from user: 
 start time:
@@ -37,3 +36,5 @@ dependency:
 - pypika
 - pycoingecko
 
+prototype at: https://share.streamlit.io/pete-loh/defikingdom/main/main.py
+or fork this repo and run: "streamlit run main.py"
