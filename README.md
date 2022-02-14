@@ -36,5 +36,5 @@ dependency:
 - pypika
 - pycoingecko
 
-prototype at: https://share.streamlit.io/pete-loh/defikingdom/main/main.py
+prototype at: https://share.streamlit.io/peteloh/dfk-transaction-history-tracker/main/main.py
 or clone this repo and run locally using: "streamlit run main.py"
